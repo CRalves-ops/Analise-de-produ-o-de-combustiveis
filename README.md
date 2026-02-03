@@ -1,6 +1,3 @@
-Aqui está uma proposta de texto para o arquivo `README.md` do seu projeto, estruturada de forma profissional e baseada no conteúdo do seu notebook.
-
----
 
 # AP2 - Análise de Produção de Combustível
 
